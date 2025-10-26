@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+
+# Build output (if you ever build)
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yan-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
